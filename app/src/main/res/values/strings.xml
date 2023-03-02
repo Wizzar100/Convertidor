@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">conversion_unidades</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="peso">Peso</string>
+    <string name="longitud">Longitud</string>
+    <string name="volumen">Volumen</string>
+    <string-array name="longitudes">
+        <item>Kilómetro</item>
+        <item>Metro</item>
+        <item>Decímetro</item>
+        <item>Centímetro</item>
+        <item>Milímetro</item>
+        <item>Nanómetro</item>
+        <item>Milla</item>
+        <item>Pie</item>
+        <item>Yarda</item>
+        <item>Pulgada</item>
+    </string-array>
+</resources>
